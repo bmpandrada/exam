@@ -1,0 +1,9 @@
+{
+    "navbar": [
+        {"name": "Platform", "id": 1},
+        {"name": "Solutions", "id": 2},
+        {"name": "Company", "id": 3},
+        {"name": "Resources", "id": 4},
+        {"name": "Contact", "id": 5}
+    ]
+}

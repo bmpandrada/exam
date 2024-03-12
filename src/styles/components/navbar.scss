@@ -1,0 +1,26 @@
+.navbar {
+    .container {
+        height: 50px;
+        max-width: 1140px;
+    }
+    background-color: #fff !important;
+    margin: 0;
+    padding: 0;
+    .navbar-brand {
+        img {
+            width: 133px !important;
+        }
+    }
+    .navbar-nav {
+        flex-direction: row;
+        justify-content: flex-end;
+        width: 100%;
+        a {
+            color: #333 !important;
+        }
+    }
+    button {
+        margin-left: 1rem;
+    }
+}
+
